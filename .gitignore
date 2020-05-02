@@ -7,3 +7,8 @@ out/
 # InteliJ
 .idea/
 *.iml
+
+# NetBeans
+build/
+dist/
+nbproject/
