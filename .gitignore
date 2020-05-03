@@ -4,11 +4,27 @@
 target/
 out/
 
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
 # InteliJ
 .idea/
 *.iml
+*.iws
+*.ipr
 
 # NetBeans
 build/
 dist/
 nbproject/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
